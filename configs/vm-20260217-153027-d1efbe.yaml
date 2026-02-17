@@ -1,0 +1,6 @@
+resourceGroup:
+  valueKind: String
+vmName:
+  valueKind: String
+location:
+  valueKind: String
